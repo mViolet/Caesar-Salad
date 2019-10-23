@@ -8,6 +8,6 @@ The requirements for this task were:</p>
 - Run `./caesar [key]`, where [key] is any positive integer. This will be the encryption key.<br>
 - At the next prompt, Provide a message to encrypt.
 - Hit Enter & your encrypted message will appear!</p>
-<br>
-*Why is the repo called "Caesar Salad", you ask? Well, I just really like Caesar salad. ...And I'm hungry!*
+
+Why is the repo called "Caesar Salad", you ask? Well, I just really like Caesar salad. ...And I'm hungry!
 
